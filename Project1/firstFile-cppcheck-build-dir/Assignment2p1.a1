@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<analyzerinfo checksum="1526201812">
+  <FileInfo check="ctu">
+<function-call call-id="Assignment2p1.c:17:5" call-funcname="rowTally" call-argnr="2" file="Assignment2p1.c" line="53" col="32" call-argexpr="i" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Assignment2p1.c:18:5" call-funcname="colTally" call-argnr="2" file="Assignment2p1.c" line="63" col="32" call-argexpr="i" call-argvaluetype="0" call-argvalue="0"/>  </FileInfo>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="main" lineNumber="21"/>
+    <functiondecl functionName="rowTally" lineNumber="74"/>
+    <functiondecl functionName="colTally" lineNumber="84"/>
+    <functioncall functionName="colNum"/>
+    <functioncall functionName="colTally"/>
+    <functioncall functionName="for"/>
+    <functioncall functionName="getchar"/>
+    <functioncall functionName="i"/>
+    <functioncall functionName="j"/>
+    <functioncall functionName="myMatrix"/>
+    <functioncall functionName="printf"/>
+    <functioncall functionName="rowNum"/>
+    <functioncall functionName="rowTally"/>
+    <functioncall functionName="scanf"/>
+    <functioncall functionName="void"/>
+    <functioncall functionName="while"/>
+  </FileInfo>
+</analyzerinfo>

@@ -1,0 +1,32 @@
+[2021-10-17 10:32.43]  /drives/g/My Drive/PSUCourses/ece361f21/assignments/hw2/ece361f21_solutions/prob1
+[roykr.DESKTOP-UAMUI66] ➤ pwd
+/drives/g/My Drive/PSUCourses/ece361f21/assignments/hw2/ece361f21_solutions/prob1
+
+[2021-10-17 10:32.46]  /drives/g/My Drive/PSUCourses/ece361f21/assignments/hw2/ece361f21_solutions/prob1
+[roykr.DESKTOP-UAMUI66] ➤ gcc -Wall -std=c99 -o sums.exe sums.c
+
+[2021-10-17 10:32.54]  /drives/g/My Drive/PSUCourses/ece361f21/assignments/hw2/ece361f21_solutions/prob1
+[roykr.DESKTOP-UAMUI66] ➤ ./sums.exe
+Enter row 1: 6 14 2 6 0
+Enter row 2: 15 7 3 2 9
+Enter row 3: 2 8 6 23 1
+Enter row 4: 3 5 17 1 1
+Enter row 5: 8 3 9 0 10
+
+Row totals: 28 36 40 27 30
+Column totals: 34 37 37 32 21
+
+[2021-10-17 10:34.50]  /drives/g/My Drive/PSUCourses/ece361f21/assignments/hw2/ece361f21_solutions/prob1
+[roykr.DESKTOP-UAMUI66] ➤ ./sums.exe
+Enter row 1: 100 -10 10 25 0
+Enter row 2: 1 2 3 4 5
+Enter row 3: 16 27 18 9 23
+Enter row 4: 5 5 5 5 5
+Enter row 5: 18 0 0 5 6
+
+Row totals: 125 15 93 25 29
+Column totals: 140 24 36 48 39
+
+[2021-10-17 10:35.50]  /drives/g/My Drive/PSUCourses/ece361f21/assignments/hw2/ece361f21_solutions/prob1
+[roykr.DESKTOP-UAMUI66] ➤
+

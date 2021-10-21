@@ -1,0 +1,3 @@
+main call:[colTally,getchar,printf,rowTally,scanf] noreturn:[colTally,printf,rowTally,scanf]
+rowTally
+colTally

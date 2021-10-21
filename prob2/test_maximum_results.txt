@@ -1,0 +1,44 @@
+[2021-10-17 15:21.33]  /drives/g/My Drive/PSUCourses/ece361f21/assignments/hw2/ece361f21_solutions/prob2
+[roykr.DESKTOP-UAMUI66] ➤ pwd
+
+[2021-10-17 15:21.38]  /drives/g/My Drive/PSUCourses/ece361f21/assignments/hw2/ece361f21_solutions/prob2
+[roykr.DESKTOP-UAMUI66] ➤ gcc -Wall -std=c99 -o test_maximum.exe maximum.c test_maximum.c
+
+[2021-10-17 15:22.18]  /drives/g/My Drive/PSUCourses/ece361f21/assignments/hw2/ece361f21_solutions/prob2
+[roykr.DESKTOP-UAMUI66] ➤ ./test_maximum.exe
+Find the maximum number in an array of numbers
+
+Enter the number of items in the list: 5
+Enter the items as a floating point number: 10 0 25 30 32
+Original list: 10.00 0.00 25.00 30.00 32.00
+Largest value: 32.00
+
+[2021-10-17 15:23.53]  /drives/g/My Drive/PSUCourses/ece361f21/assignments/hw2/ece361f21_solutions/prob2
+[roykr.DESKTOP-UAMUI66] ➤ ./test_maximum.exe
+Find the maximum number in an array of numbers
+
+Enter the number of items in the list: 5
+Enter the items as a floating point number: 10.0 0.0 25.6 254.4 25.5
+Original list: 10.00 0.00 25.60 254.40 25.50
+Largest value: 254.40
+
+[2021-10-17 15:24.13]  /drives/g/My Drive/PSUCourses/ece361f21/assignments/hw2/ece361f21_solutions/prob2
+[roykr.DESKTOP-UAMUI66] ➤ ./test_maximum.exe
+Find the maximum number in an array of numbers
+
+Enter the number of items in the list: 5
+Enter the items as a floating point number: 9.0 8.9 9.1 9.1 9.1
+Original list: 9.00 8.90 9.10 9.10 9.10
+Largest value: 9.10
+
+[2021-10-17 15:25.26]  /drives/g/My Drive/PSUCourses/ece361f21/assignments/hw2/ece361f21_solutions/prob2
+[roykr.DESKTOP-UAMUI66] ➤ ./test_maximum.exe
+Find the maximum number in an array of numbers
+
+Enter the number of items in the list: 5
+Enter the items as a floating point number: 100.0 -100.0 100.1 101.5 99.9
+Original list: 100.00 -100.00 100.10 101.50 99.90
+Largest value: 101.50
+
+[2021-10-17 15:25.43]  /drives/g/My Drive/PSUCourses/ece361f21/assignments/hw2/ece361f21_solutions/prob2
+[roykr.DESKTOP-UAMUI66] ➤

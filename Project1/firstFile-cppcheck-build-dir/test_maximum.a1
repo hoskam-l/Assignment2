@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<analyzerinfo checksum="1486700364">
+  <FileInfo check="ctu">
+<function-call call-id="test_maximum.c:30:7" call-funcname="maximum" call-argnr="1" file="test_maximum.c" line="51" col="42" call-argexpr="vector" call-argvaluetype="7" call-argvalue="128"/>  </FileInfo>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="main" lineNumber="32"/>
+    <functiondecl functionName="maximum" lineNumber="56"/>
+    <functioncall functionName="for"/>
+    <functioncall functionName="i"/>
+    <functioncall functionName="if"/>
+    <functioncall functionName="list"/>
+    <functioncall functionName="maximum"/>
+    <functioncall functionName="n"/>
+    <functioncall functionName="numItems"/>
+    <functioncall functionName="printf"/>
+    <functioncall functionName="scanf"/>
+    <functioncall functionName="vector"/>
+  </FileInfo>
+</analyzerinfo>

@@ -1,0 +1,2 @@
+main call:[maximum,printf,scanf] noreturn:[printf,scanf]
+maximum call:[maximum] noreturn:[maximum]
