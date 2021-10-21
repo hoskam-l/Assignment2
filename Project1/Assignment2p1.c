@@ -8,7 +8,7 @@
 //and tabulate the rows and the columns
 //
 
-
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
 #define NUM_COLS 5
