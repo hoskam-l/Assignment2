@@ -1,3 +1,5 @@
-﻿  Assignment2p1.c
-  Project1.vcxproj -> D:\Documents\School\Fall2021\ECE361\Assignments\Assignment2\Project1\Debug\Project1.exe
-D:\Documents\School\Fall2021\ECE361\Assignments\Assignment2\Project1\Assignment2p1.c(35): warning C6031: Return value ignored: 'scanf'.
+﻿  SinglyLinkedList.c
+  SinglyLinkedList_Test.c
+  Generating Code...
+D:\Documents\School\Fall2021\ECE361\Assignments\Assignment2\Project1\SinglyLinkedList.c(61): error C4703: potentially uninitialized local pointer variable 'q' used
+D:\Documents\School\Fall2021\ECE361\Assignments\Assignment2\Project1\SinglyLinkedList.c(35): error C4703: potentially uninitialized local pointer variable 'q' used

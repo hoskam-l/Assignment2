@@ -1,9 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
-struct listNode{
-	int data;
-	struct listNode *next;
-};
+#include "SinglyLinkedList.h"
+
+
 int singlyListLength(struct listNode *head){
 	int count=0;
 	struct listNode *current=head;
@@ -71,13 +70,6 @@ void printSLList(struct listNode *head){
 	}
 	printf("\n");
 }
-int SinglyLinkedList_test(){
-	struct listNode *head=NULL;
-	insertInSinglyLinkedList(&head,5,5);
-	insertInSinglyLinkedList(&head,2,5);
-	printf("Elements in List:%d\n",singlyListLength(head));
-	printSLList(head);
-	deleteNodeFromLinkedList(&head,1);
-	printSLList(head);
-	return 0;
+struct listNode* CreateSinglyLinkedList() {
+	return NULL;
 }
