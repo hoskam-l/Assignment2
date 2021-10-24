@@ -3,7 +3,6 @@
 
 struct listNode {
 	int data;
-	struct listNode* first;
 	struct listNode* next;
 };
 
