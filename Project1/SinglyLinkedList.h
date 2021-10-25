@@ -3,7 +3,6 @@
 
 struct listNode {
 	int data;
-	struct listNode* first;
 	struct listNode* next;
 };
 
@@ -11,6 +10,6 @@ int singlyListLength(struct listNode* head);
 void insertInSinglyLinkedList(struct listNode** head, int data, int pos);
 void deleteNodeFromLinkedList(struct listNode** head, int pos);
 void printSLList(struct listNode* head);
-struct listNode* CreateSinglyLinkedList();
+struct listNode* CreateSinglyLinkedList(int value);
 
 #endif

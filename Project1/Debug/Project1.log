@@ -1,5 +1,5 @@
 ﻿  SinglyLinkedList.c
   SinglyLinkedList_Test.c
   Generating Code...
-D:\Documents\School\Fall2021\ECE361\Assignments\Assignment2\Project1\SinglyLinkedList.c(61): error C4703: potentially uninitialized local pointer variable 'q' used
 D:\Documents\School\Fall2021\ECE361\Assignments\Assignment2\Project1\SinglyLinkedList.c(35): error C4703: potentially uninitialized local pointer variable 'q' used
+D:\Documents\School\Fall2021\ECE361\Assignments\Assignment2\Project1\SinglyLinkedList.c(61): error C4703: potentially uninitialized local pointer variable 'q' used

@@ -1,0 +1,26 @@
+
+
+float maximum(float list[], int n)
+{	
+	//if program calls function more than once
+	static int newCall = 0;
+	static float currentMax = 0;
+	//declare a inital value for current max if this is a function hasn't
+	//been called yet
+	if (newCall == 0)
+	{
+		currentMax = 0;
+		newCall = 1;
+	}
+	//
+	if(currentMax < list[n]) currentMax = list[n];
+	if (n == 0)
+	{
+		newCall = 0;
+		return currentMax;
+	}
+		
+
+	return maximum(list,--n);
+
+}

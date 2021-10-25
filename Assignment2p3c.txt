@@ -1,0 +1,9 @@
+  /home/mobaxterm/mydocuments/school/fall2021/ece361/assignments/assignment2/project1   master 
+  24/10/2021   14:15.33  gcc -std=c99 -Wall -pedantic -o a.exe SinglyLinkedList.c SinglyLinkedList_Test.c
+                                                                                                      ✔
+
+  /home/mobaxterm/mydocuments/school/fall2021/ece361/assignments/assignment2/project1   master 
+  24/10/2021   14:16.56  ./a
+Elements in List:2
+5 2
+5

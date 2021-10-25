@@ -3,7 +3,7 @@
 #include "SinglyLinkedList.h"
 
 
-int singlyListLength(struct listNode *head){
+int singlyListLength(myNodePtr head){
 	int count=0;
 	struct listNode *current=head;
 	while(current!=NULL){
@@ -71,5 +71,13 @@ void printSLList(struct listNode *head){
 	printf("\n");
 }
 struct listNode* CreateSinglyLinkedList() {
+
 	return NULL;
+	/*struct listNode* lNode = malloc(sizeof(struct listNode));
+	if (!lNode) {
+		return NULL;
+	}
+	lNode->data = value;
+	lNode->next = NULL;
+	return lNode; */
 }

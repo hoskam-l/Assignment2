@@ -3,13 +3,13 @@
 #include "SinglyLinkedList.h"
 
 int main() {
-	struct listNode* sll = CreateSinglyLinkedList();
+	myNodePtr sll = CreateSinglyLinkedList();
 	//struct listNode* head = NULL;
 	insertInSinglyLinkedList(&sll, 5, 5);
 	insertInSinglyLinkedList(&sll, 2, 5);
 	printf("Elements in List:%d\n", singlyListLength(sll));
 	printSLList(sll);
-	deleteNodeFromLinkedList(&sll, 1);
+	deleteNodeFromLinkedList(&sll, 2);
 	printSLList(sll);
 	return 0;
 }

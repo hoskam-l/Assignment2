@@ -70,6 +70,12 @@ void printSLList(struct listNode *head){
 	}
 	printf("\n");
 }
-struct listNode* CreateSinglyLinkedList() {
-	return NULL;
+struct listNode* CreateSinglyLinkedList(int value) {
+	struct listNode* lNode = malloc(sizeof(struct listNode));
+	if (!lNode) {
+		return NULL;
+	}
+	lNode->data = value;
+	lNode->next = NULL;
+	return lNode;
 }

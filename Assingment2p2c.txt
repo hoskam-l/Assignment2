@@ -1,0 +1,45 @@
+  /home/mobaxterm/mydocuments/school/fall2021/ece361/assignments/assignment2   master 
+  24/10/2021   11:05.13  gcc -std=c99 -Wall -pedantic -o a.exe test_maximum.c
+                                                                                                      ✔
+
+  /home/mobaxterm/mydocuments/school/fall2021/ece361/assignments/assignment2   master 
+  24/10/2021   11:05.31  ./a
+Find the maximum number in an array of numbers
+
+Enter the number of items in the list: 5
+Enter the items as a floating point number: 1.1 1.2 1.0 0.9 0.8
+Original list: 1.10 1.20 1.00 0.90 0.80
+Largest value: 1.20
+                                                                                                      ✔
+
+  /home/mobaxterm/mydocuments/school/fall2021/ece361/assignments/assignment2   master 
+  24/10/2021   11:06.03  ./a
+Find the maximum number in an array of numbers
+
+Enter the number of items in the list: 1.5 1.3 1.0 0.9 0.8
+Enter the items as a floating point number: Original list: 0.50
+Largest value: 0.50
+                                                                                                      ✔
+
+  /home/mobaxterm/mydocuments/school/fall2021/ece361/assignments/assignment2   master 
+  24/10/2021   11:06.31  ./a
+Find the maximum number in an array of numbers
+
+Enter the number of items in the list: 5
+Enter the items as a floating point number: 1.5 1.3 1.0 0.9 0.8
+Original list: 1.50 1.30 1.00 0.90 0.80
+Largest value: 1.50
+                                                                                                      ✔
+
+  /home/mobaxterm/mydocuments/school/fall2021/ece361/assignments/assignment2   master 
+  24/10/2021   11:06.57  ./a
+Find the maximum number in an array of numbers
+
+Enter the number of items in the list: 5
+Enter the items as a floating point number: 1.3 1.2 1.1 1.0 1.5
+Original list: 1.30 1.20 1.10 1.00 1.50
+Largest value: 1.50
+                                                                                                      ✔
+
+  /home/mobaxterm/mydocuments/school/fall2021/ece361/assignments/assignment2   master 
+  24/10/2021   11:07.26 
